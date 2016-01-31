@@ -1,0 +1,12 @@
+sudo: true
+
+
+language: ruby
+rvm:
+  - 2.2.0
+
+git:
+  submodules: false
+
+script:
+  - env
